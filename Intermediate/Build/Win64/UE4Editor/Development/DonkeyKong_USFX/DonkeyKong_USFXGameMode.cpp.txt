@@ -1,0 +1,38 @@
+E:\PATRONES\ADAPTER\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Definitions.DonkeyKong_USFX.h
+E:\PATRONES\ADAPTER\Source\DonkeyKong_USFX\DonkeyKong_USFXGameMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+E:\PATRONES\ADAPTER\Source\DonkeyKong_USFX\Plataforma.h
+E:\PATRONES\ADAPTER\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_USFX\Plataforma.generated.h
+E:\PATRONES\ADAPTER\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_USFX\DonkeyKong_USFXGameMode.generated.h
+E:\PATRONES\ADAPTER\Source\DonkeyKong_USFX\DonkeyKong_USFXCharacter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+E:\PATRONES\ADAPTER\Source\DonkeyKong_USFX\IProyectil.h
+E:\PATRONES\ADAPTER\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_USFX\IProyectil.generated.h
+E:\PATRONES\ADAPTER\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_USFX\DonkeyKong_USFXCharacter.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+E:\PATRONES\ADAPTER\Source\DonkeyKong_USFX\BuilderNiveles.h
+E:\PATRONES\ADAPTER\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_USFX\BuilderNiveles.generated.h
+E:\PATRONES\ADAPTER\Source\DonkeyKong_USFX\BuilderTipoA.h
+E:\PATRONES\ADAPTER\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_USFX\BuilderTipoA.generated.h
+E:\PATRONES\ADAPTER\Source\DonkeyKong_USFX\BuilderTipoB.h
+E:\PATRONES\ADAPTER\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_USFX\BuilderTipoB.generated.h
+E:\PATRONES\ADAPTER\Source\DonkeyKong_USFX\Arquitecto.h
+E:\PATRONES\ADAPTER\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_USFX\Arquitecto.generated.h
+E:\PATRONES\ADAPTER\Source\DonkeyKong_USFX\AdaptadorProyectil.h
+E:\PATRONES\ADAPTER\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_USFX\AdaptadorProyectil.generated.h

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DonkeyKong_USFX",
+			"Path": "E:\\PATRONES\\ADAPTER\\Source\\DonkeyKong_USFX.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DonkeyKong_USFXEditor",
+			"Path": "E:\\PATRONES\\ADAPTER\\Source\\DonkeyKong_USFXEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
